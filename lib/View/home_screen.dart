@@ -27,7 +27,6 @@ class _HomeScreenState extends State<HomeScreen> {
     ),
   ];
 
-  final networkController = Get.find<NetworkController>();
 
   @override
   void initState() {
